@@ -2,8 +2,7 @@
 소비자가 사용하게 될 IOS App을 개발
 
 ## 자격요건
-- Python 외의 언어로 웹서버 개발 혹은 Python으로 웹서버 개발 가능
-- S
+- Love each other
 
 ## 우대요건 
 - 다양한 UI/UX 적용 경험
